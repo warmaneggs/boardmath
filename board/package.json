@@ -1,0 +1,15 @@
+{
+  "name": "mathboard",
+  "version": "1.0.0",
+  "description": "Онлайн-доска для занятий математикой",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
